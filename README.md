@@ -1,5 +1,5 @@
 # Tableau---NETFLIX-Analysis
-project
+project 
 
 Total Movies & TV Shows by Country: 
 By analyzing the distribution of content by country of origin, we can understand Netflix's global reach and its commitment to diverse storytelling. This insight sheds light on the platform's efforts to cater to international audiences and provide a rich tapestry of cultures and perspectives.
